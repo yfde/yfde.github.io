@@ -15,26 +15,26 @@ I am looking for a Job / MPhil / PhD position now!
 
 <style>
 .pub{
-width: 900px;
 margin: 10px auto;
 overflow: hidden; /* 避免長方框下面顯示不正常 */
 }
 .bdcard{
-width: 250px;
-float:left; /* 圖片在左邊 */
+/* width: 250px; */
+float:left;
 padding: 0px 0px 0px 0px;
 }
 .bdcard img{
-
 display: block;
-width:100%;
+/* width:100%; */
 margin-left: 10px;
 margin-top: 30px;
+margin-right: 10px;
 }
 .bdtext{
-float: right;  /* 文字在右邊 */
-width: 600px;
+float: left;
+/* width: 600px; */
 padding: 0px 0px 0px 0px;
+margin-left: 0px;
 }
 </style>
 
@@ -43,19 +43,19 @@ padding: 0px 0px 0px 0px;
 <body class='typora-export os-windows'>
 <div class="pub">
 <div class="bdcard">
-<img src="{{site.pub_img.dragvideo | relative_url}}" alt="dragvideo" />
+<img src="https://yfde.cc/images/dragvideo.gif" alt="dragvideo" />
 </div>
 <div class="bdtext">
-<h6>DragVideo: Interactive Drag-style Video Editing</h6>
+<h3>DragVideo: Interactive Drag-style Video Editing</h3>
 <font size="3" >
-<b>Yufan Deng </b>*, 
+<b>Yufan Deng</b>*, 
 <a href="https://github.com/RickySkywalker">Ruida Wang</a>*,  
 <a href="https://yzhanglp.github.io/">Yuhao Zhang</a>*, 
 <a href="https://yuwingtai.github.io/">Yu-Wing Tai</a>, 
 <a href="http://www.cs.ust.hk/~cktang/">Chi-Keung Tang</a> <br>
 <i>* indicates equal contribution </i><br>
-<!-- <i> IEEE/CVF International Conference on Computer Vision </i> <br> -->
-<a href="https://arxiv.org/abs/2312.02216">[paper]</a> <a href="https://github.com/RickySkywalker/DragVideo-Official">[github]</a>
+<!-- <i> arXiv preprint, 2023 </i> <br> -->
+<a href="https://arxiv.org/abs/2312.02216">[Paper]</a> <a href="https://github.com/RickySkywalker/DragVideo-Official">[Github]</a>
 </font>
 </div>
 </div>
