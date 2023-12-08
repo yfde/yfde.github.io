@@ -25,14 +25,16 @@ padding: 0px 0px 0px 0px;
 }
 .bdcard img{
 display: block;
-/* width:100%; */
-margin-left: 10px;
+width:100%;
+max-width: 378px;
+margin-left: 0px;
 margin-top: 30px;
-margin-right: 10px;
+margin-right: 5px;
 }
 .bdtext{
 float: left;
-/* width: 600px; */
+width: 100%px;
+max-width: 384px;
 padding: 0px 0px 0px 0px;
 margin-left: 0px;
 }
