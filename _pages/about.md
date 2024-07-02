@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a junior undergraduate student at HKUST, working with Prof. [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/) and Prof. [Yu-Wing Tai](https://yuwingtai.github.io/). I am now doing summer research internship at [Stanford Vision and Learning Lab](https://svl.stanford.edu/) with [Shangzhe Wu](https://elliottwu.com/), [Chen Geng](https://chen-geng.com/), and Prof. [Jiajun Wu](https://jiajunwu.com/). I will obtain BEng in Computer Science in Jun 2025. My research interests are in the areas of Computer Vision and AIGC.
+I am a junior undergraduate student at HKUST, working with Prof. [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/) and Prof. [Yu-Wing Tai](https://yuwingtai.github.io/). I am now doing summer research internship at [Stanford Vision and Learning Lab](https://svl.stanford.edu/) with [Shangzhe Wu](https://elliottwu.com/), [Chen Geng](https://chen-geng.com/), and Prof. [Jiajun Wu](https://jiajunwu.com/). I will obtain BEng in Computer Science in June 2025. My research interests are in the areas of Computer Vision and AIGC.
 
 I am looking for 25 Fall MPhil / PhD position now! 
 
