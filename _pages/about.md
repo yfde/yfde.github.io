@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an undergraduate student in the Hong Kong University of Science and Technology(HKUST), currently working with Prof. [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/) and Prof. [Yu-Wing Tai](https://yuwingtai.github.io/) on the topic related to Diffusion Model. I will obtain BEng in Computer Science in Jun 2025. My research interests are in the areas of computer vision and machine learning, especially generative model. Currently I am focusing on diffusion model for video.
+I am a junior undergraduate student at HKUST, working with Prof. [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/) and Prof. [Yu-Wing Tai](https://yuwingtai.github.io/). I am now doing summer research internship at [Stanford Vision and Learning Lab](https://svl.stanford.edu/) with [Shangzhe Wu](https://elliottwu.com/), [Chen Geng](https://chen-geng.com/), and Prof. [Jiajun Wu](https://jiajunwu.com/). I am also a research intern at [SenseTime](https://www.sensetime.com/). I will obtain BEng in Computer Science in Jun 2025. My research interests are in the areas of Computer Vision and AIGC.
 
-I am looking for a Job / MPhil / PhD position now! 
+I am looking for 25 Fall MPhil / PhD position now! 
 
 ## Project
 
@@ -56,6 +56,7 @@ margin-left: 0px;
 <a href="https://yuwingtai.github.io/">Yu-Wing Tai</a>, 
 <a href="http://www.cs.ust.hk/~cktang/">Chi-Keung Tang</a> <br>
 <i>* indicates equal contribution </i><br>
+<i> European Conference on Computer Vision (ECCV), 2024 </i> <br>
 <!-- <i> arXiv preprint, 2023 </i> <br> -->
 <a href="https://arxiv.org/abs/2312.02216">[Paper]</a> <a href="https://github.com/RickySkywalker/DragVideo-Official">[Github]</a>
 </font>

@@ -86,8 +86,8 @@ author:
   location         : "Hong Kong"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.com.hk/citations?user=w6L9BsIAAAAJ"
-  email            : "ydengbd@connect.ust.hk"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=w6L9BsIAAAAJ"
+  email            : "yfdeng@cs.stanford.edu" #"ydengbd@connect.ust.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : #"http://stackoverflow.com/users/123456/username"
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "yyfdeng"
   vine             :
   weibo            :
   xing             :
