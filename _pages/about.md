@@ -12,36 +12,35 @@ I am a senior undergraduate student at HKUST, working with Prof. [Chi-Keung Tang
 I am looking for 25 Fall PhD position now! 
 <!-- I will obtain BEng in Computer Science in June 2025. -->
 
-# Publications
+## Publications
 (* indicates equal contribution)
 <style>
 .pub{
 margin: 10px auto;
+margin-top: -20px;
 overflow: hidden; /* 避免長方框下面顯示不正常 */
 }
 .bdcard{
 /* width: 250px; */
 float:left;
-padding: 0px 0px 0px 0px;
+padding: 10px 0px 0px 0px;
 }
 .bdcard img{
 display: block;
 width:100%;
-max-width: 360px;
+max-width: 378px;
 margin-left: 0px;
 margin-top: 30px;
-margin-right: 6px;
+margin-right: 5px;
 }
 .bdtext{
 float: left;
 width: 100%px;
-max-width: 400px;
+max-width: 384px;
 padding: 0px 0px 0px 0px;
 margin-left: 0px;
 }
 </style>
-
-
 
 <body class='typora-export os-windows'>
 <div class="pub">
@@ -50,7 +49,7 @@ margin-left: 0px;
 </div>
 <div class="bdtext">
 <h3>DragVideo: Interactive Drag-style Video Editing</h3>
-<font size="2" >
+<font size="3" >
 <b><i>Yufan Deng</i></b>*, 
 <a href="https://github.com/RickySkywalker"><i>Ruida Wang</i></a>*,  
 <a href="https://yzhanglp.github.io/"><i>Yuhao Zhang</i></a>*, 
