@@ -45,7 +45,7 @@ margin-left: 0px;
 <body class='typora-export os-windows'>
 <div class="pub">
 <div class="bdcard">
-<img src="https://yfde.cc/images/dragvideo.gif" alt="dragvideo" />
+<img src="https://yufandeng.com/images/dragvideo.gif" alt="dragvideo" />
 </div>
 <div class="bdtext">
 <h3>DragVideo: Interactive Drag-style Video Editing</h3>
