@@ -7,9 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a senior undergraduate student at HKUST, working with Prof. [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/) and Prof. [Yu-Wing Tai](https://yuwingtai.github.io/). I am now doing summer research internship at [Stanford Vision and Learning Lab](https://svl.stanford.edu/) with [Shangzhe Wu](https://elliottwu.com/), [Chen Geng](https://chen-geng.com/), and Prof. [Jiajun Wu](https://jiajunwu.com/). My research interests are in the areas of Computer Vision and Generative AI.
+I am a senior undergraduate student at HKUST, working with Prof. [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/) and Prof. [Yu-Wing Tai](https://yuwingtai.github.io/). I did a summer research at [Stanford Vision and Learning Lab (SVL)](https://svl.stanford.edu/) with [Chen Geng](https://chen-geng.com/), Prof. [Shangzhe Wu](https://elliottwu.com/), and Prof. [Jiajun Wu](https://jiajunwu.com/). 
+I am broadly interested in AI for Computer Vision and Graphics.
+<!-- My research interests are in the areas of Computer Vision and Generative AI. -->
 
 I am looking for 25 Fall PhD position now! 
+
+My CV can be found [here](https://yufandeng.com/files/cv_yfdeng.pdf).
 <!-- I will obtain BEng in Computer Science in June 2025. -->
 
 ## Publications
@@ -59,6 +63,29 @@ margin-left: 0px;
 ECCV 2024 <br>
 <!-- <i> arXiv preprint, 2023 </i> <br> -->
 <a href="https://dragvideo.github.io">[Page]</a> <a href="https://arxiv.org/abs/2312.02216">[Paper]</a> <a href="https://github.com/RickySkywalker/DragVideo-Official">[Code]</a>
+</font>
+</div>
+</div>
+</body>
+
+<body class='typora-export os-windows'>
+<div class="pub">
+<div class="bdcard">
+<img src="https://yufandeng.com/images/anymate.gif" alt="anymate" />
+</div>
+<div class="bdtext">
+<h3>Anymate: A Dataset and Baselines for
+Learning 3D Object Rigging</h3>
+<font size="3" >
+<b><i>Yufan Deng</i></b>*, 
+<a href="https://yzhanglp.github.io/"><i>Yuhao Zhang</i></a>*, 
+<a href="https://chen-geng.com/"><i>Chen Geng</i></a>, 
+<a href="https://elliottwu.com/"><i>Shangzhe Wu</i></a>, 
+<a href="https://jiajunwu.com/"><i>Shangzhe Wu</i></a> <br>
+<!-- <i>* indicates equal contribution </i><br> -->
+Under Review: CVPR 2025 <br>
+<!-- <i> arXiv preprint, 2023 </i> <br> -->
+<a href="https://drive.google.com/file/d/1LR19cQ_jACRaloVLlNCJzDb7nzUwK9j3/view">[Paper]</a>
 </font>
 </div>
 </div>

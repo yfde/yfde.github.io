@@ -16,7 +16,8 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /assets/files/Resume_Deng_Yufan_5.pdf
+    # url: /assets/files/Resume_Deng_Yufan_5.pdf
+    url: /files/cv_yfdeng.pdf
     
   # - title: "Guide"
   #   url: /markdown/
