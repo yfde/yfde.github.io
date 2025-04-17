@@ -81,7 +81,7 @@ Learning 3D Object Rigging</h3>
 <a href="https://yzhanglp.github.io/"><i>Yuhao Zhang</i></a>*, 
 <a href="https://chen-geng.com/"><i>Chen Geng</i></a>, 
 <a href="https://elliottwu.com/"><i>Shangzhe Wu</i></a>, 
-<a href="https://jiajunwu.com/"><i>Shangzhe Wu</i></a> <br>
+<a href="https://jiajunwu.com/"><i>Jiajun Wu</i></a> <br>
 <!-- <i>* indicates equal contribution </i><br> -->
 SIGGRAPH 2025 <br>
 <!-- <i> arXiv preprint, 2023 </i> <br> -->
