@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 I am a senior undergraduate student at HKUST, working with Prof. [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/) and Prof. [Yu-Wing Tai](https://yuwingtai.github.io/). I did a summer research at [Stanford Vision and Learning Lab (SVL)](https://svl.stanford.edu/) with [Chen Geng](https://chen-geng.com/), Prof. [Shangzhe Wu](https://elliottwu.com/), and Prof. [Jiajun Wu](https://jiajunwu.com/). 
-I am broadly interested in AI for Computer Vision and Graphics.
+I am broadly interested in AI, Computer Vision and Graphics.
 <!-- My research interests are in the areas of Computer Vision and Generative AI. -->
 
-I am looking for 25 Fall PhD position now! 
+<!-- I am looking for 25 Fall PhD position now!  -->
 
 My CV can be found [here](https://yufandeng.com/files/cv_yfdeng.pdf).
 <!-- I will obtain BEng in Computer Science in June 2025. -->
@@ -83,7 +83,7 @@ Learning 3D Object Rigging</h3>
 <a href="https://elliottwu.com/"><i>Shangzhe Wu</i></a>, 
 <a href="https://jiajunwu.com/"><i>Shangzhe Wu</i></a> <br>
 <!-- <i>* indicates equal contribution </i><br> -->
-Under Review: CVPR 2025 <br>
+SIGGRAPH 2025 <br>
 <!-- <i> arXiv preprint, 2023 </i> <br> -->
 <a href="https://drive.google.com/file/d/1LR19cQ_jACRaloVLlNCJzDb7nzUwK9j3/view">[Paper]</a>
 </font>
