@@ -85,7 +85,7 @@ Learning 3D Object Rigging</h3>
 <!-- <i>* indicates equal contribution </i><br> -->
 SIGGRAPH 2025 <br>
 <!-- <i> arXiv preprint, 2023 </i> <br> -->
-<a href="https://drive.google.com/file/d/1LR19cQ_jACRaloVLlNCJzDb7nzUwK9j3/view">[Paper]</a>
+<a href="https://anymate3d.github.io">[Page]</a> <a href="https://arxiv.org/abs/2505.06227">[Paper]</a> <a href="https://github.com/yfde/Anymate">[Code]</a>
 </font>
 </div>
 </div>
