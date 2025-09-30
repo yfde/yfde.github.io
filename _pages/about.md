@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an incoming PhD at Oxford, working with Prof. [Christian Rupprecht](https://chrirupp.github.io/). I received my Bachelor's degree in Computer Science from HKUST in 2025, working with Prof. [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/) and Prof. [Yu-Wing Tai](https://yuwingtai.github.io/). I did a summer research at [Stanford Vision and Learning Lab (SVL)](https://svl.stanford.edu/) with [Chen Geng](https://chen-geng.com/), Prof. [Shangzhe Wu](https://elliottwu.com/), and Prof. [Jiajun Wu](https://jiajunwu.com/). 
+I am an incoming PhD at Oxford, working with Prof. [Christian Rupprecht](https://chrirupp.github.io/). My PhD is funded by [Jardine Foundation](https://www.jardines.com/en/sustainability/our-focus-areas/shaping-social-inclusion/jardine-foundation). I received my Bachelor's degree in Computer Science from HKUST in 2025, working with Prof. [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/) and Prof. [Yu-Wing Tai](https://yuwingtai.github.io/). I did a summer research at [Stanford Vision and Learning Lab (SVL)](https://svl.stanford.edu/) with [Chen Geng](https://chen-geng.com/), Prof. [Shangzhe Wu](https://elliottwu.com/), and Prof. [Jiajun Wu](https://jiajunwu.com/). 
 I am broadly interested in AI, Computer Vision and Graphics.
 <!-- My research interests are in the areas of Computer Vision and Generative AI. -->
 
