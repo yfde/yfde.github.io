@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an incoming PhD at Oxford, working with Prof. [Christian Rupprecht](https://chrirupp.github.io/). My PhD is funded by [Jardine Foundation](https://www.jardines.com/en/sustainability/our-focus-areas/shaping-social-inclusion/jardine-foundation). I received my Bachelor's degree in Computer Science from HKUST in 2025, working with Prof. [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/) and Prof. [Yu-Wing Tai](https://yuwingtai.github.io/). I did a summer research at [Stanford Vision and Learning Lab (SVL)](https://svl.stanford.edu/) with [Chen Geng](https://chen-geng.com/), Prof. [Shangzhe Wu](https://elliottwu.com/), and Prof. [Jiajun Wu](https://jiajunwu.com/). 
+I am a first-year PhD student at [Oxford VGG](https://www.robots.ox.ac.uk/~vgg/), advised by Prof. [Christian Rupprecht](https://chrirupp.github.io/), funded by [Jardine Foundation](https://www.jardines.com/en/sustainability/our-focus-areas/shaping-social-inclusion/jardine-foundation). I received my Bachelor's degree in Computer Science from HKUST in 2025, working with Prof. [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/) and Prof. [Yu-Wing Tai](https://yuwingtai.github.io/). I did a summer research at [Stanford SVL](https://svl.stanford.edu/) with [Chen Geng](https://chen-geng.com/), Prof. [Shangzhe Wu](https://elliottwu.com/), and Prof. [Jiajun Wu](https://jiajunwu.com/). 
 I am broadly interested in AI, Computer Vision and Graphics.
 <!-- My research interests are in the areas of Computer Vision and Generative AI. -->
 
@@ -49,28 +49,6 @@ margin-left: 0px;
 <body class='typora-export os-windows'>
 <div class="pub">
 <div class="bdcard">
-<img src="https://yufandeng.com/images/dragvideo.gif" alt="dragvideo" />
-</div>
-<div class="bdtext">
-<h3>DragVideo: Interactive Drag-style Video Editing</h3>
-<font size="3" >
-<b><i>Yufan Deng</i></b>*, 
-<a href="https://github.com/RickySkywalker"><i>Ruida Wang</i></a>*,  
-<a href="https://yzhanglp.github.io/"><i>Yuhao Zhang</i></a>*, 
-<a href="https://yuwingtai.github.io/"><i>Yu-Wing Tai</i></a>, 
-<a href="http://www.cs.ust.hk/~cktang/"><i>Chi-Keung Tang</i></a> <br>
-<!-- <i>* indicates equal contribution </i><br> -->
-ECCV 2024 <br>
-<!-- <i> arXiv preprint, 2023 </i> <br> -->
-<a href="https://dragvideo.github.io">[Page]</a> <a href="https://arxiv.org/abs/2312.02216">[Paper]</a> <a href="https://github.com/RickySkywalker/DragVideo-Official">[Code]</a>
-</font>
-</div>
-</div>
-</body>
-
-<body class='typora-export os-windows'>
-<div class="pub">
-<div class="bdcard">
 <img src="https://yufandeng.com/images/anymate.gif" alt="anymate" />
 </div>
 <div class="bdtext">
@@ -86,6 +64,28 @@ Learning 3D Object Rigging</h3>
 SIGGRAPH 2025 <br>
 <!-- <i> arXiv preprint, 2023 </i> <br> -->
 <a href="https://anymate3d.github.io">[Page]</a> <a href="https://arxiv.org/abs/2505.06227">[Paper]</a> <a href="https://github.com/yfde/Anymate">[Code]</a>
+</font>
+</div>
+</div>
+</body>
+
+<body class='typora-export os-windows'>
+<div class="pub">
+<div class="bdcard">
+<img src="https://yufandeng.com/images/dragvideo.gif" alt="dragvideo" />
+</div>
+<div class="bdtext">
+<h3>DragVideo: Interactive Drag-style Video Editing</h3>
+<font size="3" >
+<b><i>Yufan Deng</i></b>*, 
+<a href="https://github.com/RickySkywalker"><i>Ruida Wang</i></a>*,  
+<a href="https://yzhanglp.github.io/"><i>Yuhao Zhang</i></a>*, 
+<a href="https://yuwingtai.github.io/"><i>Yu-Wing Tai</i></a>, 
+<a href="http://www.cs.ust.hk/~cktang/"><i>Chi-Keung Tang</i></a> <br>
+<!-- <i>* indicates equal contribution </i><br> -->
+ECCV 2024 <br>
+<!-- <i> arXiv preprint, 2023 </i> <br> -->
+<a href="https://dragvideo.github.io">[Page]</a> <a href="https://arxiv.org/abs/2312.02216">[Paper]</a> <a href="https://github.com/RickySkywalker/DragVideo-Official">[Code]</a>
 </font>
 </div>
 </div>
