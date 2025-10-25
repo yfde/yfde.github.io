@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=w6L9BsIAAAAJ"
-  email            : "" #"yufan@robots.ox.ac.uk" #"yfdeng@cs.stanford.edu" #"ydengbd@connect.ust.hk"
+  email            : #"yufan@robots.ox.ac.uk" #"yfdeng@cs.stanford.edu" #"ydengbd@connect.ust.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
